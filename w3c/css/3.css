@@ -1,0 +1,24 @@
+div{
+    color: red;
+    font-size: 20px;
+    font-family: "Microsoft Yahei";
+    font-style: italic;
+    font-weight: 900;
+    line-height: 30px;
+    height: 30px;
+}
+
+b {
+    color: blue;
+    font-weight: normal;
+    font-family: 'SongTi';
+    font-style: italic;
+}
+
+i{
+    color: indigo;
+    font-style: normal;
+    font-family: "Courier New";
+    font-style: normal;
+}
+
